@@ -5,6 +5,9 @@ con pila, resistencias, LEDs, transistores y capacitores.
 
 ![Estado](https://img.shields.io/badge/estado-beta-yellow)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
+## Descargar
+El archivo es .exe, solo para Windows
+https://github.com/Math-i-as/ElectroRiver/releases/latest
 
 ## 🎮 Cómo jugar
 
